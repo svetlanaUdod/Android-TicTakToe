@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tic_tak_toe</string>
+    <string name="player1">Enter player1 name</string>
+    <string name="player2">Enter player2 name</string>
+    <string name="confirm">Play</string>
+    <string name="dots">:</string>
+    <string name="won">won</string>
+    <string name="draw">Draw</string>
+    <string name="turn">Turn</string>
+</resources>

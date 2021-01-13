@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">крестики нолики</string>
+    <string name="player1">Введите имя игрока1</string>
+    <string name="player2">Введите имя игрока2</string>
+    <string name="confirm">Играть</string>
+    <string name="dots">:</string>
+    <string name="won">победил</string>
+    <string name="draw">Ничья</string>
+    <string name="turn">Ход</string>
+</resources>
