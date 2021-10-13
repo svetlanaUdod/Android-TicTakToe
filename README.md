@@ -1,2 +1,2 @@
-# TicTakToe
+# TicTakToe Android
 Андроид приложение для игры в крестики-нолики.
